@@ -3,7 +3,6 @@ Overview
 
 This project predicts how well a candidate’s resume matches a given job description using Natural Language Processing (NLP) and Machine Learning techniques. The system analyzes textual similarity between resumes and job descriptions, extracts meaningful features, and provides a match score or prediction.
 
-The project can help recruiters, HR teams, and job seekers by automating the resume screening process and identifying the most suitable candidates for a role.
 
 Features
 Upload and analyze resumes
